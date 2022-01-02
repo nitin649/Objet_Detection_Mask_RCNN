@@ -19,7 +19,7 @@ Mask R-CNN is an extension of Faster R-CNN with additional branch for predicting
       - VGG Image Annotator - https://www.robots.ox.ac.uk/~vgg/software/via/
       - makesense.ai - https://www.makesense.ai/
     - I have used VGG Annotator because in VGG Annotator we can Annotate multiple classes Objects at same time but we can not do this in makesense.ai.
-    - After Annotating all the images .I have used Annotations in the form of JSON format there are other formats also available we could use.
+    - After Annotating all the images .I have used Annotations in the form of JSON format there are other formats also available that we could use.
 
 3. Model Training
     - I have used this github repo for training the **MASK R-CNN** model - https://github.com/matterport/Mask_RCNN from this repo we need only **mrcnn** folder. 
